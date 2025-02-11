@@ -12,7 +12,7 @@ import * as otherName from "./person.js";
 console.log(otherName);
 
 // Cách hoạt động
-{
-    person: { name: "Phạm Tuấn Phong" },
-    info: { event: "PR-Marketing" }
-}
+// {
+//     person: { name: "Phạm Tuấn Phong" },
+//     info: { event: "PR-Marketing" }
+// }
